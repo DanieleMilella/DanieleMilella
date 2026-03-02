@@ -1,6 +1,6 @@
 # Hi there, I'm Daniele Milella 👋
 
-### Developer 4.0 | Frontend Enthusiast | Currently @ Switch
+### Frontend Developer | Currently work in Switch
 
 I am a **Developer 4.0**, certified by **ITS Apulia Digital Maker**. My mission is to bridge the gap between complex software logic and seamless user experiences. I specialize in building robust, scalable web applications with a focus on modern frontend architectures.
 
