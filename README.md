@@ -8,8 +8,6 @@ I am a **Developer 4.0**, certified by **ITS Apulia Digital Maker**. My mission 
 
 ## 🛠 My Tech Stack
 
-I focus on creating type-safe, performant interfaces using the following core technologies:
-
 | Technology | Badge |
 | :--- | :--- |
 | **Next.js** | ![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white) |
