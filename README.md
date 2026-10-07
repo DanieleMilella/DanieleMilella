@@ -1,6 +1,6 @@
 # Hi there, I'm Daniele Milella 👋
 
-### Frontend Developer | Currently work in Switch
+### Frontend Developer | ITS Apulia Digital Graduate
 
 I am a **Developer 4.0**, certified by **ITS Apulia Digital Maker**. My mission is to bridge the gap between complex software logic and seamless user experiences. I specialize in building robust, scalable web applications with a focus on modern frontend architectures.
 
@@ -18,7 +18,6 @@ I am a **Developer 4.0**, certified by **ITS Apulia Digital Maker**. My mission 
 ---
 
 ## 🚀 Current Focus
-- 🔭 Working as a Developer at **Switch**, contributing to innovative digital solutions.
 - 🌱 Deep-diving into the React ecosystem and advanced state management.
 - 🏗️ Crafting high-performance UIs that prioritize the end-user experience.
 
