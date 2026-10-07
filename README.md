@@ -22,6 +22,7 @@ I am a **Developer 4.0**, certified by **ITS Apulia Digital Maker**. My mission 
 - 🏗️ Crafting high-performance UIs that prioritize the end-user experience.
 
 ## 📫 Connect with me
+- **Portfolio**: https://daniele-milella.vercel.app/
 - **LinkedIn**: [linkedin.com/in/alfredo-daniele-milella-9b85ba302/](https://www.linkedin.com/in/alfredo-daniele-milella-9b85ba302/)
 
 ---
